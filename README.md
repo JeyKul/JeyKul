@@ -1,3 +1,4 @@
+![SAMSA](./samsungbanner.gif)
 ## Hi there 👋
 
 ## What I can work with
@@ -25,7 +26,7 @@
   <img src="https://komarev.com/ghpvc/?username=JeyKul&style=flat-square&color=blue" alt=""/>
 </div>
 
-
+![SAMSA](./samsungbanner.gif)
 <!--
 **JeyKul/JeyKul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

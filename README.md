@@ -14,10 +14,10 @@
 
 ## How to contact me
 
-  <a href="https://t.me/jeykul">
+  <a href="https://t.me/jeykul" align="center">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://github.com/jeykul">
+  <a href="https://github.com/jeykul" align="center">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
